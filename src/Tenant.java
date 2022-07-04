@@ -8,7 +8,7 @@ import java.io.Serializable;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class Tenant extends Person implements Serializable {
     private final int tenantID;

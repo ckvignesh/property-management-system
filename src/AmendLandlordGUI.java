@@ -8,7 +8,7 @@ import java.awt.*;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class AmendLandlordGUI extends JFrame {
     

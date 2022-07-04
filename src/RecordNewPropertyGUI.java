@@ -20,7 +20,7 @@ import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class RecordNewPropertyGUI extends JFrame{
     

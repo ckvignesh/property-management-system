@@ -8,7 +8,7 @@ import java.io.Serializable;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class PropertyRent implements Serializable{
   

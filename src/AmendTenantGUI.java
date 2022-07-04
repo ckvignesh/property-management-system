@@ -9,7 +9,7 @@ import java.awt.*;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class AmendTenantGUI extends JFrame {
     

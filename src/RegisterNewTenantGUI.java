@@ -16,7 +16,7 @@ import javax.swing.SwingConstants;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class RegisterNewTenantGUI extends JFrame{
     

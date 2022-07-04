@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class propertyLoadTester {
     public static void main(String[] args) throws Exception {

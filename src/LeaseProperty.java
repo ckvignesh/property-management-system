@@ -8,7 +8,7 @@ import java.io.Serializable;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class LeaseProperty implements Serializable{
   private String propertyAddress;

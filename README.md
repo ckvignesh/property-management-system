@@ -1,3 +1,3 @@
 # Property Management System in Java
 
-Please run this on Netbeans.
+Please open this project and run this on Netbeans.

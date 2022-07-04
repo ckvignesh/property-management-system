@@ -10,7 +10,7 @@ import java.util.ArrayList;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class propertySaveTester {
     public static void main(String[] args) throws Exception {

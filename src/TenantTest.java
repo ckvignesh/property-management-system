@@ -5,7 +5,7 @@
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class TenantTest {
     public static void main(String[] args) {

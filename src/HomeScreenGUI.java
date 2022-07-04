@@ -34,7 +34,7 @@ import javax.swing.JPanel;
  */
 /**
  *
- * @author David O' Connor
+ * 
  */
 public class HomeScreenGUI extends JFrame {
     //JMenu fileMenu, landlordsMenu, propertiesMenu, tenantsMenu, rentalsMenu, helpMenu;
